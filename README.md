@@ -1,9 +1,7 @@
-# FlaskRest
 
-Домашнее задание к лекции «Flask»
+# Домашнее задание к лекции «Flask»
 
-Инструкцию по сдаче домашнего задания вы найдете на главной странице репозитория.
-Задание 1
+## [Задание :](https://github.com/netology-code/py-homeworks-web/tree/new/2.1-flask#%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-1)
 
 Вам нужно написать REST API (backend) для сайта объявлений.
 
@@ -22,4 +20,10 @@
 
     Сделайте роут на Flask.
     POST метод должен создавать объявление, GET - получать объявление, DELETE - удалять объявление.
- https://github.com/netology-code/py-homeworks-web/tree/new/2.1-flask#%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-1
+    
+## Для запуска:
+
+1. pip install requirements.txt
+2. python3 main.py
+3. enjoy this shiny simple app
+ 
