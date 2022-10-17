@@ -25,5 +25,6 @@
 
 1. pip install requirements.txt
 2. python3 main.py
-3. enjoy this shiny simple app
+3. /ads /ads/{id}
+4. enjoy this shiny simple app
  
